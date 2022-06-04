@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
     <pages>
-        <page name='3）Sequence'/>
+        <page name='1）Currying'/>
         <page name='2）mutating'/>
-        <page name='1）柯里化'/>
+        <page name='3）Sequence'/>
+        <page name='4）Tuple'/>
+        <page name='5）@autoclosure'/>
+        <page name='6）??'/>
+        <page name='7）@escaping'/>
+        <page name='8）Optional Chaining'/>
     </pages>
 </playground>
