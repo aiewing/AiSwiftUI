@@ -12,5 +12,14 @@
         <page name='9）Operator Overload'/>
         <page name='10）func的参数修饰'/>
         <page name='11）字面量表达式'/>
+        <page name='12）下标'/>
+        <page name='13）方法嵌套'/>
+        <page name='14）命名空间'/>
+        <page name='15）typealias'/>
+        <page name='16）associatedtype'/>
+        <page name='17）可变参数函数'/>
+        <page name='18）初始化方法顺序'/>
+        <page name='19）Designated,Convenience,Required'/>
+        <page name='20）初始化返回nil'/>
     </pages>
 </playground>
