@@ -21,5 +21,27 @@
         <page name='18）初始化方法顺序'/>
         <page name='19）Designated,Convenience,Required'/>
         <page name='20）初始化返回nil'/>
+        <page name='21）static和class'/>
+        <page name='22）多类型和容器'/>
+        <page name='23）default参数'/>
+        <page name='24）正则表达式'/>
+        <page name='25）模式匹配'/>
+        <page name='26）...和..&lt;'/>
+        <page name='27）AnyClass,元类型和.self'/>
+        <page name='28）协议和类方法中的Self'/>
+        <page name='29）动态类型和多方法'/>
+        <page name='30）属性观察'/>
+        <page name='31）final'/>
+        <page name='32）lazy修饰符和lazy方法'/>
+        <page name='33）Reflection和Mirror'/>
+        <page name='34）隐式解包Optional'/>
+        <page name='35）多重Optional'/>
+        <page name='36）Optional Map'/>
+        <page name='37）Protocol Extension'/>
+        <page name='38）where和模式匹配'/>
+        <page name='39）indirect和嵌套enum'/>
+        <page name='从ObjectiveC到Swift'/>
+        <page name='40）Selector'/>
+        <page name='41）实例方法的动态调用'/>
     </pages>
 </playground>
