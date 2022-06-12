@@ -9,7 +9,7 @@
         <page name='6）??'/>
         <page name='7）@escaping'/>
         <page name='8）Optional Chaining'/>
-        <page name='9）Operator Overload'/>
+        <page name='9）Operator overload'/>
         <page name='10）func的参数修饰'/>
         <page name='11）字面量表达式'/>
         <page name='12）下标'/>
@@ -43,5 +43,7 @@
         <page name='从ObjectiveC到Swift'/>
         <page name='40）Selector'/>
         <page name='41）实例方法的动态调用'/>
+        <page name='42）单例'/>
+        <page name='43）条件编译'/>
     </pages>
 </playground>
