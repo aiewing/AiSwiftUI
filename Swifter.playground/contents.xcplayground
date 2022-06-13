@@ -9,7 +9,7 @@
         <page name='6）??'/>
         <page name='7）@escaping'/>
         <page name='8）Optional Chaining'/>
-        <page name='9）Operator overload'/>
+        <page name='9）Operator Overload'/>
         <page name='10）func的参数修饰'/>
         <page name='11）字面量表达式'/>
         <page name='12）下标'/>
@@ -45,5 +45,16 @@
         <page name='41）实例方法的动态调用'/>
         <page name='42）单例'/>
         <page name='43）条件编译'/>
+        <page name='44）编译标记'/>
+        <page name='45）@UIApplicationMain'/>
+        <page name='46）@objc和dynamic'/>
+        <page name='47）可选协议和协议扩展'/>
+        <page name='48）内存管理，weak和unowned'/>
+        <page name='49）@autoreleasepool'/>
+        <page name='50）值类型和引用类型'/>
+        <page name='51）String还是NSString'/>
+        <page name='52）UnsafePointer'/>
+        <page name='53）C指针内存管理'/>
+        <page name='54）COpaquePointer和C convention'/>
     </pages>
 </playground>
