@@ -55,10 +55,21 @@
         <page name='52）UnsafePointer'/>
         <page name='53）C指针内存管理'/>
         <page name='54）COpaquePointer和C convention'/>
-        <page name='9）Operator overload'/>
         <page name='55）GCD和延时调用'/>
         <page name='56）获取对象类型'/>
         <page name='57）自省'/>
         <page name='58）KeyPath和KVO'/>
+        <page name='9）Operator Overload'/>
+        <page name='59）局部scope'/>
+        <page name='60）判等'/>
+        <page name='61）哈希'/>
+        <page name='62）类簇'/>
+        <page name='63）调用C动态库'/>
+        <page name='64）输出格式化'/>
+        <page name='65）Options'/>
+        <page name='66）数组enumerate'/>
+        <page name='67）类型编码@encode'/>
+        <page name='68）C代码调用和@asmname'/>
+        <page name='69）delegate'/>
     </pages>
 </playground>
