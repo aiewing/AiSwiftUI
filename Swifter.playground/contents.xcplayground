@@ -59,7 +59,6 @@
         <page name='56）获取对象类型'/>
         <page name='57）自省'/>
         <page name='58）KeyPath和KVO'/>
-        <page name='9）Operator Overload'/>
         <page name='59）局部scope'/>
         <page name='60）判等'/>
         <page name='61）哈希'/>
@@ -71,5 +70,18 @@
         <page name='67）类型编码@encode'/>
         <page name='68）C代码调用和@asmname'/>
         <page name='69）delegate'/>
+        <page name='9）Operator overload'/>
+        <page name='70）Associated Object'/>
+        <page name='71）Lock'/>
+        <page name='72）Toll-Free Bridging和Unmanaged'/>
+        <page name='Swift与开发环境及一些实践'/>
+        <page name='73）Swift命令行工具'/>
+        <page name='74）随机数生成'/>
+        <page name='75）print和debugPrint'/>
+        <page name='76）错误和异常处理'/>
+        <page name='77）断言'/>
+        <page name='78）fatalError'/>
+        <page name='79）代码组织和Framework'/>
+        <page name='80）安全的资源组织方式'/>
     </pages>
 </playground>
