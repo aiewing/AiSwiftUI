@@ -36,7 +36,7 @@ extension UIViewController {
 }
 
 let image = UIImage(imageName: .myImage)
-performSegue(withName: .mySegue, sender: self)
+//performSegue(withName: .mySegue, sender: self)
 
 /*
  但仅仅这样其实还是没有彻底解决名称变更带来的问题。不过在 Swift 中，根据项目内容来自动化生成像是 ImageName 和 SegueName 这样的类型并不是一件难事。Swift 社区中现在也有一些比较成熟的自动化工具了，R.swift 和 SwiftGen 就是其中的佼佼者。它们通过扫描我们的项目文件，来提取出对应的字符串，然后自动生成对应的 enum 或者 struct 文件。当我们之后添加，删除或者改变资源名称的时候，这些工具可以为我们重新生成对应的代表资源名字的类型，从而让我们可以利用编译器的检查来确保代码中所有对该资源的引用都保持正确。这在需要协作的项目中会是非常可靠和值得提倡的做法。
